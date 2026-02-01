@@ -1,0 +1,5 @@
+aiogram>=3.5,<4.0
+SQLAlchemy[asyncio]>=2.0.30
+aiosqlite>=0.19
+aiohttp>=3.9
+uvloop>=0.19; platform_system != "Windows"
